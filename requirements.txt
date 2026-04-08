@@ -1,0 +1,6 @@
+Given these two JSON files (one representing subscriptions domain API data and one representing usage domain API data),
+please create an API to return the subscription ID, appKey, environmentName, usageId, and usage amount for a given subscription ID and appKey.
+
+The application should return an error if the appKey exceeds 100 characters.
+
+If time allows, please create a front end dashboard to display this information.

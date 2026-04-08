@@ -1,0 +1,14 @@
+{
+  "subscriptions": [
+    {
+      "id": 1,
+      "appKey": "hyland-app",
+      "environmentName": "hyland-environment"
+    },
+	{
+      "id": 2,
+      "appKey": "another-app",
+      "environmentName": "not-hyland-environment"
+    }
+  ]
+}

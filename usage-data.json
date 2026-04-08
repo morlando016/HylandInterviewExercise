@@ -1,0 +1,14 @@
+{
+  "usageData": [
+    {
+      "id": 3,
+      "appKey": "hyland-app",
+      "usageAmount": 100
+    },
+	{
+      "id": 4,
+      "appKey": "another-app",
+      "usageAmount": 299
+    }
+  ]
+}
